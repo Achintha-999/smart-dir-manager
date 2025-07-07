@@ -1,0 +1,3 @@
+D:/My Projects/FileOrganizer/build/CMakeFiles/file_organizer.dir
+D:/My Projects/FileOrganizer/build/CMakeFiles/edit_cache.dir
+D:/My Projects/FileOrganizer/build/CMakeFiles/rebuild_cache.dir
